@@ -173,7 +173,3 @@ Possible extensions to this project include:
 - Comparing different chunk sizes and overlap configurations.
 - Using `Document` objects instead of plain text.
 - Integrating the generated chunks into a complete RAG pipeline.
-
----
-
-
