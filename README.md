@@ -176,8 +176,4 @@ Possible extensions to this project include:
 
 ---
 
-## Repository
 
-GitHub: https://github.com/mani787060/structure-based-text-splitter
-
-**Note:** This repository currently demonstrates recursive character-based splitting. The additional techniques listed under Future Improvements are potential extensions, not existing implementations.
